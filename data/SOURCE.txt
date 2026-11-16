@@ -1,0 +1,18 @@
+SOURCE PAPER
+Afshinnia F, Nair V, Lin J, Rajendiran TM, Soni T, Byun J, Sharma K, Fort PE, Gardner TW, Looker HC,
+Nelson RG, Brosius FC, Feldman EL, Michailidis G, Kretzler M, Pennathur S.
+"Increased lipogenesis and impaired beta-oxidation predict type 2 diabetic kidney disease progression
+in American Indians." JCI Insight. 2019;4(21):e130317. doi:10.1172/jci.insight.130317 (open access)
+
+Article:      https://insight.jci.org/articles/view/130317
+Supplement:   https://insight.jci.org/articles/view/130317/sd/pdf/render/1  (PDF, 31 pages)
+
+FILE: Afshinnia2019_SupplTable1_lipid_species.csv
+Supplement Table 1 "Identified lipids by adducts, mass, and retention time in positive and negative modes"
+(baseline serum from 92 American Indians with type 2 diabetes; LC-MS). Transcribed from the supplement PDF; one row per detected feature.
+Columns: lipid_class, lipid_species (sum composition, carbons:double bonds), adduct, mz, rt_min, ion_mode
+Class abbreviations: TAG = TG, DAG = DG, PC, PE, PS, PI, PG, PA, SM, LPC, LPE, MAG, CE, FFA, CerP,
+pPC/pPE = plasmenyl (plasmalogen) PC/PE.
+Notes: some species appear more than once (different adducts or isomers at different RT).
+LPC 20:2 RT is printed as "20" in the source PDF (likely a typo). FFA rows have no adduct listed in the source.
+Retrieved 2026-10-16.
